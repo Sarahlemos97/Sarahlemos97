@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Sarahlemos97/Sarah Lemos
-- 👀 I’m interested in gain knowledge in the various areas of programming and meet people who can help me with this.
-- 🌱 I’m currently learning I am studying in several different places about Programming Logic, so that I can start studying with Java. That's it for now, but I want to develop many more programming skills.
-- 💞️ I’m looking to collaborate on solving problems, repairing software, creating tools and many other situations, when I can get the experience and knowledge necessary to perform.
-- 📫 How to reach me by email: sarahkarine1@gmail.com
+- 👋 Hi, I'm @Sarahlemos97/Sarah Lemos. Welcome to my GitHub.
+- 👀 I'm interested in acquiring knowledge in different areas of programming and meeting people who can help me with this.
+- 🌱 I'm currently expanding my knowledge in Front-End with HTML, CSS, JavaScript and Bootstrap, see some of my projects below. I'm looking to learn more about Back-End and Database.
+- 💞️ I try to collaborate in problem solving, software repair, tool creation and many other situations, when I can obtain the necessary experience and knowledge to act.I am looking for work opportunities in my areas of knowledge so that I can develop my skills and achieve professional growth.
 
 <table>
 	<div class="box">
